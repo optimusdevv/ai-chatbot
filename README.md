@@ -11,7 +11,8 @@ A simple production-ready AI chatbot with FastAPI, SQLite, and OpenRouter
 - Deployed on Render
 
 ## 📸 Preview
-![App Screenshot] <img width="1028" height="920" alt="image" src="https://github.com/user-attachments/assets/c12aed34-d82a-4ead-a2d9-5db6a95b1b81" />
+![App Screenshot](<img width="1028" height="920" alt="Screenshot 2026-03-29 211657" src="https://github.com/user-attachments/assets/f860e094-7d0d-4660-b8d4-f9c066eed3aa" />
+)
 
 
 ## Setup
