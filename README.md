@@ -11,7 +11,7 @@ A simple production-ready AI chatbot with FastAPI, SQLite, and OpenRouter
 - Deployed on Render
 
 ## 📸 Preview
-![App Screenshot](Screenshot 2026-03-29 211657.png)
+![App Screenshot] (Screenshot 2026-03-29 211657.png)
 
 
 
