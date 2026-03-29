@@ -1,7 +1,14 @@
 # 🤖 AI Chatbot
 🌐 Live Demo: https://ai-chatbot-3fwm.onrender.com
 
-A simple production-ready AI chatbot with FastAPI, SQLite, and OpenAI.
+A simple production-ready AI chatbot with FastAPI, SQLite, and OpenRouter
+
+## 🚀 Features
+- Chat with AI
+- Remembers conversation (SQLite memory)
+- FastAPI backend
+- Real-time responses
+- Deployed on Render
 
 ## Setup
 
