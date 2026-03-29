@@ -1,5 +1,5 @@
 # 🤖 AI Chatbot
-🌐 Live Demo: https://ai-chatbot-3fwm.onrender.com
+🌐 Live Demo: https://ai-chatbot-project1.onrender.com
 
 A simple production-ready AI chatbot with FastAPI, SQLite, and OpenRouter
 
